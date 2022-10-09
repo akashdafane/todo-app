@@ -1,0 +1,24 @@
+.input-group-prepend{color:red;} 
+#align{
+    margin-left: 4px;
+    color: green;
+}
+
+#email{
+    margin-top: 60px;
+    margin-left: 4px;
+    color: green;
+}
+
+.btn-primary{
+   margin-top: 10%;
+   margin-right: 202%
+}
+/*
+.btn-danger{
+   margin-left: 421px;
+}*/
+#forget{
+   margin-left: 50px;
+  
+}
